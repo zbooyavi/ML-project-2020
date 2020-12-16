@@ -1,4 +1,4 @@
-# ML-project-2020
+# Telco Customer Churn Prediction-2020
 Context:
 
 In this project we are going to predict the behavior of telecom customers who are more likely to leave the platform in order to help retain customers.
