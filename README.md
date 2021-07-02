@@ -19,3 +19,5 @@ We are going to use different models such as logistic regression, Naive Bayes, D
 Here is the link of data from Kaggle:
 
 https://www.kaggle.com/blastchar/telco-customer-churn
+
+
